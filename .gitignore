@@ -47,3 +47,8 @@ googletest/
 *.code-workspace
 compile_commands.json
 .clangd
+*_config.json
+*_variables.csv
+*_time.txt
+*_functions.csv
+*~
